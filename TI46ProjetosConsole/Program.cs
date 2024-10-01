@@ -10,6 +10,9 @@ namespace TI46ProjetosConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!!");
+            Console.WriteLine("Linha 2,teste");
+
         }
     }
 }
